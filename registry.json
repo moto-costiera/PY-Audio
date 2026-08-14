@@ -1,0 +1,201 @@
+{
+  "version": 1,
+  "updated_at": "2026-08-14T10:41:48Z",
+  "extensions": [
+    {
+      "id": "amazon",
+      "name": "amazon",
+      "display_name": "Amazon",
+      "version": "1.0.0",
+      "description": "Auto-generated registry entry for Amazon.",
+      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/amazon_native.sflx",
+      "sha256": "feeaf4cd264626bade95e22b5e61fd32e44bec680a4582dbdcf265e8fc38ca90",
+      "category": "download",
+      "tags": [
+        "amazon"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-08-14T10:19:06Z"
+    },
+    {
+      "id": "apple-music",
+      "name": "apple-music",
+      "display_name": "Apple Music",
+      "version": "1.0.0",
+      "description": "Auto-generated registry entry for Apple Music.",
+      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/apple_music_native.sflx",
+      "sha256": "44f86a8b18c7b99e87045b94e56fd600d36205e81134af0f2337f066d1aed7c3",
+      "category": "download",
+      "tags": [
+        "apple-music"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-08-14T10:19:06Z"
+    },
+    {
+      "id": "deezer",
+      "name": "deezer",
+      "display_name": "Deezer",
+      "version": "1.0.0",
+      "description": "Auto-generated registry entry for Deezer.",
+      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/deezer_native.sflx",
+      "sha256": "cd2592a0390ee8abc37a541180970432c8aa1a1acd37878241ba32cb0c3ab5f9",
+      "category": "download",
+      "tags": [
+        "deezer"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-08-14T10:19:06Z"
+    },
+    {
+      "id": "gdstudio",
+      "name": "gdstudio",
+      "display_name": "Gdstudio",
+      "version": "1.0.0",
+      "description": "Auto-generated registry entry for Gdstudio.",
+      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/gdstudio_native.sflx",
+      "sha256": "145ee6be04372e338a6d9791af33b34554487b741f9e1b0f81d4c7eea3139ef0",
+      "category": "download",
+      "tags": [
+        "gdstudio"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-08-14T10:19:06Z"
+    },
+    {
+      "id": "pandora",
+      "name": "pandora",
+      "display_name": "Pandora",
+      "version": "1.0.0",
+      "description": "Auto-generated registry entry for Pandora.",
+      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/pandora_native.sflx",
+      "sha256": "449b997888945e6b2e05375d6591ab7059f8b86ba9efacf49766814b14ae7b25",
+      "category": "download",
+      "tags": [
+        "pandora"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-08-14T10:19:06Z"
+    },
+    {
+      "id": "qobuz",
+      "name": "qobuz",
+      "display_name": "Qobuz",
+      "version": "1.0.0",
+      "description": "Auto-generated registry entry for Qobuz.",
+      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/qobuz_native.sflx",
+      "sha256": "f56b4c8fcdac938977de067185cb574d95b90536d9cbc1211297c415c38fa596",
+      "category": "download",
+      "tags": [
+        "qobuz"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-08-14T10:19:06Z"
+    },
+    {
+      "id": "soundcloud",
+      "name": "soundcloud",
+      "display_name": "Soundcloud",
+      "version": "1.0.0",
+      "description": "Auto-generated registry entry for Soundcloud.",
+      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/soundcloud_native.sflx",
+      "sha256": "6c13844b6f3dcab89048470544fa26b871b23d10ac4d5cd3733d52d0ad851aa6",
+      "category": "download",
+      "tags": [
+        "soundcloud"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-08-14T10:19:06Z"
+    },
+    {
+      "id": "tidal",
+      "name": "tidal",
+      "display_name": "Tidal",
+      "version": "1.0.0",
+      "description": "Auto-generated registry entry for Tidal.",
+      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/tidal_native.sflx",
+      "sha256": "f4a3b78423956b9263255355fca6c67b8f01b666af48fbeddc4b934fb1b268d5",
+      "category": "download",
+      "tags": [
+        "tidal"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-08-14T10:19:06Z"
+    },
+    {
+      "id": "youtube",
+      "name": "youtube",
+      "display_name": "Youtube",
+      "version": "1.0.0",
+      "description": "Auto-generated registry entry for Youtube.",
+      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/youtube_native.sflx",
+      "sha256": "b7bae131d18bb729b1d9e1a093e029e5d773459fed63773141dbba53e416548d",
+      "category": "download",
+      "tags": [
+        "youtube"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-08-14T10:19:06Z"
+    },
+    {
+      "id": "signed-session-mobile",
+      "name": "signed-session-mobile",
+      "display_name": "Signed Session Mobile",
+      "version": "1.0.0",
+      "description": "Auto-added extension signed_session_mobile.sflx",
+      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/signed_session_mobile.sflx",
+      "sha256": "cf39083ed7d5addaa106b5451177a632813504dca416529167c109f7c43f6f84",
+      "category": "utility",
+      "tags": [
+        "signed-session-mobile"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-08-14T10:40:45Z"
+    },
+    {
+      "id": "signed-session-desktop",
+      "name": "signed-session-desktop",
+      "display_name": "Signed Session Desktop",
+      "version": "1.0.0",
+      "description": "Auto-added extension signed_session_desktop.sflx",
+      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/signed_session_desktop.sflx",
+      "sha256": "6b2501c3fb77833ab3b8e39856e027eac122918b1ad73159f3c6bf94d4e9d28b",
+      "category": "utility",
+      "tags": [
+        "signed-session-desktop"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-08-14T10:40:45Z"
+    },
+    {
+      "id": "solver",
+      "name": "solver",
+      "display_name": "Solver",
+      "version": "1.0.0",
+      "description": "Auto-added extension solver.sflx",
+      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/solver.sflx",
+      "sha256": "4a408ff8c0becbb43f0c46aee0e3f42837162ff77ff004af490d0d51c7a833e9",
+      "category": "utility",
+      "tags": [
+        "solver"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-08-14T10:40:45Z"
+    },
+    {
+      "id": "signed-session-mono",
+      "name": "signed-session-mono",
+      "display_name": "Signed Session Mono",
+      "version": "1.0.0",
+      "description": "Auto-added extension signed_session_mono.sflx",
+      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/signed_session_mono.sflx",
+      "sha256": "49d590ad7057742b45f656de73dac853dc2416e372282fdff056f1df12779708",
+      "category": "utility",
+      "tags": [
+        "signed-session-mono"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-08-14T10:40:45Z"
+    }
+  ]
+}
