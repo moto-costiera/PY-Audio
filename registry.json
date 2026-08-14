@@ -9,7 +9,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Amazon.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/amazon_native.sflx",
-      "sha256": "feeaf4cd264626bade95e22b5e61fd32e44bec680a4582dbdcf265e8fc38ca90",
+      "sha256": "46181c82e7c6ad0644d6ebb3ea7d11478b6deda5e09a3b2afb34b33571a53d20",
       "category": "download",
       "tags": [
         "amazon",
@@ -25,7 +25,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Apple Music.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/apple_music_native.sflx",
-      "sha256": "44f86a8b18c7b99e87045b94e56fd600d36205e81134af0f2337f066d1aed7c3",
+      "sha256": "6f57010de0b633f7c06b10dbc301c6676a20e816c88117eac46083f8acc87bf3",
       "category": "download",
       "tags": [
         "apple-music",
@@ -41,7 +41,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Deezer.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/deezer_native.sflx",
-      "sha256": "cd2592a0390ee8abc37a541180970432c8aa1a1acd37878241ba32cb0c3ab5f9",
+      "sha256": "3045aa9d3871c4a2dba28196d92ee99d9d1bc0d624e91530220a1ecaed1c3412",
       "category": "download",
       "tags": [
         "deezer",
@@ -57,7 +57,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Gdstudio.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/gdstudio_native.sflx",
-      "sha256": "145ee6be04372e338a6d9791af33b34554487b741f9e1b0f81d4c7eea3139ef0",
+      "sha256": "7edec79ce834a10fde54fb8c8931f43bea31519c24837b2ce64aa32d0a950c1c",
       "category": "download",
       "tags": [
         "gdstudio",
@@ -73,7 +73,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Pandora.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/pandora_native.sflx",
-      "sha256": "449b997888945e6b2e05375d6591ab7059f8b86ba9efacf49766814b14ae7b25",
+      "sha256": "ec951dd2b66e877847d707794c7a60446017f1e8c6141b20ad74b59a3f453b8b",
       "category": "download",
       "tags": [
         "pandora",
@@ -89,7 +89,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Qobuz.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/qobuz_native.sflx",
-      "sha256": "f56b4c8fcdac938977de067185cb574d95b90536d9cbc1211297c415c38fa596",
+      "sha256": "f32217f16022e66a9bfba7200a7258b082661659ba3c006c37d430b55ec9b170",
       "category": "download",
       "tags": [
         "qobuz",
@@ -105,7 +105,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Soundcloud.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/soundcloud_native.sflx",
-      "sha256": "6c13844b6f3dcab89048470544fa26b871b23d10ac4d5cd3733d52d0ad851aa6",
+      "sha256": "a1774e22c37026b654e01be9f5f9090ba77614dba45a9db710aed04b7b155198",
       "category": "download",
       "tags": [
         "soundcloud",
@@ -121,7 +121,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Tidal.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/tidal_native.sflx",
-      "sha256": "f4a3b78423956b9263255355fca6c67b8f01b666af48fbeddc4b934fb1b268d5",
+      "sha256": "6aca1802f0297c040f42a046e891a02adacaf1508e1af084732bcf3688b7d18f",
       "category": "download",
       "tags": [
         "tidal",
@@ -137,7 +137,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Youtube.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/youtube_native.sflx",
-      "sha256": "b7bae131d18bb729b1d9e1a093e029e5d773459fed63773141dbba53e416548d",
+      "sha256": "44d7da9f50375b5885fc9fc45e46af85a92b4ad7194490cdd33b7f96dc359e95",
       "category": "download",
       "tags": [
         "youtube",
@@ -153,7 +153,7 @@
       "version": "1.0.0",
       "description": "Auto-added extension signed_session_mobile.sflx",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/signed_session_mobile.sflx",
-      "sha256": "cf39083ed7d5addaa106b5451177a632813504dca416529167c109f7c43f6f84",
+      "sha256": "9e7efbfb9369f3927b43bc14326f32fff035fde8c29692412f616c5282829b18",
       "category": "utility",
       "tags": [
         "signed-session-mobile",
@@ -169,7 +169,7 @@
       "version": "1.0.0",
       "description": "Auto-added extension signed_session_desktop.sflx",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/signed_session_desktop.sflx",
-      "sha256": "6b2501c3fb77833ab3b8e39856e027eac122918b1ad73159f3c6bf94d4e9d28b",
+      "sha256": "c41fe5886057abbd34b3c69d270074acfd92b8f07d270e8342e4170587d3e8e1",
       "category": "utility",
       "tags": [
         "signed-session-desktop",
@@ -185,7 +185,7 @@
       "version": "1.0.0",
       "description": "Auto-added extension solver.sflx",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/solver.sflx",
-      "sha256": "4a408ff8c0becbb43f0c46aee0e3f42837162ff77ff004af490d0d51c7a833e9",
+      "sha256": "6b1f4955d9842eb80fe06b4551180029a7469d898c2affa4123bd1147c0e6e73",
       "category": "utility",
       "tags": [
         "solver",
@@ -201,7 +201,7 @@
       "version": "1.0.0",
       "description": "Auto-added extension signed_session_mono.sflx",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/signed_session_mono.sflx",
-      "sha256": "49d590ad7057742b45f656de73dac853dc2416e372282fdff056f1df12779708",
+      "sha256": "1ed6182f81304040fb2eabd937d6a8001f83260ddd3b41fc9945e07b46977094",
       "category": "utility",
       "tags": [
         "signed-session-mono",
