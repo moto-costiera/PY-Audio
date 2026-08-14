@@ -12,7 +12,8 @@
       "sha256": "feeaf4cd264626bade95e22b5e61fd32e44bec680a4582dbdcf265e8fc38ca90",
       "category": "download",
       "tags": [
-        "amazon"
+        "amazon",
+        "python"
       ],
       "downloads": 0,
       "updated_at": "2026-08-14T10:19:06Z"
@@ -27,7 +28,8 @@
       "sha256": "44f86a8b18c7b99e87045b94e56fd600d36205e81134af0f2337f066d1aed7c3",
       "category": "download",
       "tags": [
-        "apple-music"
+        "apple-music",
+        "python"
       ],
       "downloads": 0,
       "updated_at": "2026-08-14T10:19:06Z"
@@ -42,7 +44,8 @@
       "sha256": "cd2592a0390ee8abc37a541180970432c8aa1a1acd37878241ba32cb0c3ab5f9",
       "category": "download",
       "tags": [
-        "deezer"
+        "deezer",
+        "python"
       ],
       "downloads": 0,
       "updated_at": "2026-08-14T10:19:06Z"
@@ -57,7 +60,8 @@
       "sha256": "145ee6be04372e338a6d9791af33b34554487b741f9e1b0f81d4c7eea3139ef0",
       "category": "download",
       "tags": [
-        "gdstudio"
+        "gdstudio",
+        "python"
       ],
       "downloads": 0,
       "updated_at": "2026-08-14T10:19:06Z"
@@ -72,7 +76,8 @@
       "sha256": "449b997888945e6b2e05375d6591ab7059f8b86ba9efacf49766814b14ae7b25",
       "category": "download",
       "tags": [
-        "pandora"
+        "pandora",
+        "python"
       ],
       "downloads": 0,
       "updated_at": "2026-08-14T10:19:06Z"
@@ -87,7 +92,8 @@
       "sha256": "f56b4c8fcdac938977de067185cb574d95b90536d9cbc1211297c415c38fa596",
       "category": "download",
       "tags": [
-        "qobuz"
+        "qobuz",
+        "python"
       ],
       "downloads": 0,
       "updated_at": "2026-08-14T10:19:06Z"
@@ -102,7 +108,8 @@
       "sha256": "6c13844b6f3dcab89048470544fa26b871b23d10ac4d5cd3733d52d0ad851aa6",
       "category": "download",
       "tags": [
-        "soundcloud"
+        "soundcloud",
+        "python"
       ],
       "downloads": 0,
       "updated_at": "2026-08-14T10:19:06Z"
@@ -117,7 +124,8 @@
       "sha256": "f4a3b78423956b9263255355fca6c67b8f01b666af48fbeddc4b934fb1b268d5",
       "category": "download",
       "tags": [
-        "tidal"
+        "tidal",
+        "python"
       ],
       "downloads": 0,
       "updated_at": "2026-08-14T10:19:06Z"
@@ -132,7 +140,8 @@
       "sha256": "b7bae131d18bb729b1d9e1a093e029e5d773459fed63773141dbba53e416548d",
       "category": "download",
       "tags": [
-        "youtube"
+        "youtube",
+        "python"
       ],
       "downloads": 0,
       "updated_at": "2026-08-14T10:19:06Z"
@@ -147,7 +156,8 @@
       "sha256": "cf39083ed7d5addaa106b5451177a632813504dca416529167c109f7c43f6f84",
       "category": "utility",
       "tags": [
-        "signed-session-mobile"
+        "signed-session-mobile",
+        "python"
       ],
       "downloads": 0,
       "updated_at": "2026-08-14T10:40:45Z"
@@ -162,7 +172,8 @@
       "sha256": "6b2501c3fb77833ab3b8e39856e027eac122918b1ad73159f3c6bf94d4e9d28b",
       "category": "utility",
       "tags": [
-        "signed-session-desktop"
+        "signed-session-desktop",
+        "python"
       ],
       "downloads": 0,
       "updated_at": "2026-08-14T10:40:45Z"
@@ -177,7 +188,8 @@
       "sha256": "4a408ff8c0becbb43f0c46aee0e3f42837162ff77ff004af490d0d51c7a833e9",
       "category": "utility",
       "tags": [
-        "solver"
+        "solver",
+        "python"
       ],
       "downloads": 0,
       "updated_at": "2026-08-14T10:40:45Z"
@@ -192,7 +204,8 @@
       "sha256": "49d590ad7057742b45f656de73dac853dc2416e372282fdff056f1df12779708",
       "category": "utility",
       "tags": [
-        "signed-session-mono"
+        "signed-session-mono",
+        "python"
       ],
       "downloads": 0,
       "updated_at": "2026-08-14T10:40:45Z"
