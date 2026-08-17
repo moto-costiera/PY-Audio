@@ -1,150 +1,150 @@
 {
   "version": 1,
-  "updated_at": "2026-08-17T11:35:00Z",
+  "updated_at": "2026-08-17T12:35:00Z",
   "extensions": [
     {
-      "id": "amazon-py",
-      "name": "amazon-py",
-      "display_name": "Amazon",
+      "id": "amazon-native",
+      "name": "amazon-native",
+      "display_name": "Amazon Native",
       "version": "1.0.0",
-      "description": "Auto-generated registry entry for Amazon.",
+      "description": "Auto-generated registry entry for Amazon Native.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/amazon_native.sflx",
       "sha256": "2e23bcda4a74da9237e1d0922009707d3b5b52b825c1357db7c4a1ab01797667",
       "category": "download",
       "tags": [
-        "amazon",
-        "python"
+        "amazon-native"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-15T10:35:33Z"
+      "updated_at": "2026-08-17T12:35:00Z",
+      "min_app_version": "4.2.0"
     },
     {
-      "id": "apple-music-py",
-      "name": "apple-music-py",
-      "display_name": "Apple Music",
+      "id": "apple-music-native",
+      "name": "apple-music-native",
+      "display_name": "Apple Music Native",
       "version": "1.0.0",
-      "description": "Auto-generated registry entry for Apple Music.",
+      "description": "Auto-generated registry entry for Apple Music Native.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/apple_music_native.sflx",
       "sha256": "aa5e5c8e1ef2b2875ca513f363d6b0a7e3a0fc9a2aec7891dec669550684d56e",
       "category": "download",
       "tags": [
-        "apple-music",
-        "python"
+        "apple-music-native"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-15T10:35:33Z"
+      "updated_at": "2026-08-17T12:35:00Z",
+      "min_app_version": "4.2.0"
     },
     {
-      "id": "deezer-py",
-      "name": "deezer-py",
-      "display_name": "Deezer",
+      "id": "deezer-native",
+      "name": "deezer-native",
+      "display_name": "Deezer Native",
       "version": "1.0.0",
-      "description": "Auto-generated registry entry for Deezer.",
+      "description": "Auto-generated registry entry for Deezer Native.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/deezer_native.sflx",
       "sha256": "8ab6e8813e4351b01aa2918416fbfc033f3bf6337592b71f4419eaa96c574dfd",
       "category": "download",
       "tags": [
-        "deezer",
-        "python"
+        "deezer-native"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-15T10:35:33Z"
+      "updated_at": "2026-08-17T12:35:00Z",
+      "min_app_version": "4.2.0"
     },
     {
-      "id": "gdstudio-py",
-      "name": "gdstudio-py",
-      "display_name": "Gdstudio",
+      "id": "gdstudio-native",
+      "name": "gdstudio-native",
+      "display_name": "Gdstudio Native",
       "version": "1.0.0",
-      "description": "Auto-generated registry entry for Gdstudio.",
+      "description": "Auto-generated registry entry for Gdstudio Native.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/gdstudio_native.sflx",
       "sha256": "262d2217cee5b4f35323bcc672188dced3ad4a17c2aaf49c9617adde624f0e3c",
       "category": "download",
       "tags": [
-        "gdstudio",
-        "python"
+        "gdstudio-native"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-15T10:35:33Z"
+      "updated_at": "2026-08-17T12:35:00Z",
+      "min_app_version": "4.2.0"
     },
     {
-      "id": "pandora-py",
-      "name": "pandora-py",
-      "display_name": "Pandora",
+      "id": "pandora-native",
+      "name": "pandora-native",
+      "display_name": "Pandora Native",
       "version": "1.0.0",
-      "description": "Auto-generated registry entry for Pandora.",
+      "description": "Auto-generated registry entry for Pandora Native.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/pandora_native.sflx",
       "sha256": "721ed68fbbdad74f81e5a2e4486c9f8687d14f6c7be9dc0d1de143707d1ad3e5",
       "category": "download",
       "tags": [
-        "pandora",
-        "python"
+        "pandora-native"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-15T10:35:33Z"
+      "updated_at": "2026-08-17T12:35:00Z",
+      "min_app_version": "4.2.0"
     },
     {
-      "id": "qobuz-py",
-      "name": "qobuz-py",
-      "display_name": "Qobuz",
+      "id": "qobuz-native",
+      "name": "qobuz-native",
+      "display_name": "Qobuz Native",
       "version": "1.0.0",
-      "description": "Auto-generated registry entry for Qobuz.",
+      "description": "Auto-generated registry entry for Qobuz Native.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/qobuz_native.sflx",
       "sha256": "3a4d67d797954be87553aa729a8af013923456bf296aa391376a87da66a5adf3",
       "category": "download",
       "tags": [
-        "qobuz",
-        "python"
+        "qobuz-native"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-15T10:35:33Z"
+      "updated_at": "2026-08-17T12:35:00Z",
+      "min_app_version": "4.2.0"
     },
     {
-      "id": "soundcloud-py",
-      "name": "soundcloud-py",
-      "display_name": "Soundcloud",
+      "id": "soundcloud-native",
+      "name": "soundcloud-native",
+      "display_name": "Soundcloud Native",
       "version": "1.0.0",
-      "description": "Auto-generated registry entry for Soundcloud.",
+      "description": "Auto-generated registry entry for Soundcloud Native.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/soundcloud_native.sflx",
       "sha256": "d8068efc1f317631081ab602ab6cdbe0b05278e091dac85f617b71b806702cf4",
       "category": "download",
       "tags": [
-        "soundcloud",
-        "python"
+        "soundcloud-native"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-17T11:35:00Z"
+      "updated_at": "2026-08-17T12:35:00Z",
+      "min_app_version": "4.2.0"
     },
     {
-      "id": "tidal-py",
-      "name": "tidal-py",
-      "display_name": "Tidal",
+      "id": "tidal-native",
+      "name": "tidal-native",
+      "display_name": "Tidal Native",
       "version": "1.0.0",
-      "description": "Auto-generated registry entry for Tidal.",
+      "description": "Auto-generated registry entry for Tidal Native.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/tidal_native.sflx",
       "sha256": "a06bb16f3d0cde2f799ae95addce0c7e004a54871af85c701a9a0660a320c4ed",
       "category": "download",
       "tags": [
-        "tidal",
-        "python"
+        "tidal-native"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-15T10:35:33Z"
+      "updated_at": "2026-08-17T12:35:00Z",
+      "min_app_version": "4.2.0"
     },
     {
-      "id": "youtube-py",
-      "name": "youtube-py",
-      "display_name": "Youtube",
+      "id": "youtube-native",
+      "name": "youtube-native",
+      "display_name": "Youtube Native",
       "version": "1.0.0",
-      "description": "Auto-generated registry entry for Youtube.",
+      "description": "Auto-generated registry entry for Youtube Native.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/youtube_native.sflx",
       "sha256": "bd7d6533c90376afa6ee12a2473fe2c4c192fc3ddd085201e1ee085708bf3e66",
       "category": "download",
       "tags": [
-        "youtube",
-        "python"
+        "youtube-native"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-15T10:35:33Z"
+      "updated_at": "2026-08-17T12:35:00Z",
+      "min_app_version": "4.2.0"
     }
   ]
 }
