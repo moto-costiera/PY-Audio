@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-15T10:35:33Z",
+  "updated_at": "2026-08-17T11:35:00Z",
   "extensions": [
     {
       "id": "amazon-py",
@@ -105,14 +105,14 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Soundcloud.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/soundcloud_native.sflx",
-      "sha256": "6b9b1ecb005e8e7318df4a2a50ec5105107379ec250cd17ae3a9f7f720fb7292",
+      "sha256": "7a268ea47057099b9ffea4cb2b61eb42baa99f1ba9f7d39558f188c27c4d467c",
       "category": "download",
       "tags": [
         "soundcloud",
         "python"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-15T10:35:33Z"
+      "updated_at": "2026-08-17T11:35:00Z"
     },
     {
       "id": "tidal-py",
