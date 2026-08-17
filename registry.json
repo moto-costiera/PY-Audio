@@ -105,7 +105,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Soundcloud.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/soundcloud_native.sflx",
-      "sha256": "d8068efc1f317631081ab602ab6cdbe0b05278e091dac85f617b71b806702cf4",
+      "sha256": "dcbce0e7a5f8eb8a1ab58dd334649bc2b5441c025ff52ee3202334d7e5ce9e28",
       "category": "download",
       "tags": [
         "soundcloud",
