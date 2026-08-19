@@ -9,7 +9,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Amazon.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/amazon_native.sflx",
-      "sha256": "2e23bcda4a74da9237e1d0922009707d3b5b52b825c1357db7c4a1ab01797667",
+      "sha256": "e6c5069e936d2f2b57f6290cfcd00feac78ba7a78c5a4c61b52e52a0faed1de7",
       "category": "download",
       "tags": [
         "amazon",
@@ -41,7 +41,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Deezer.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/deezer_native.sflx",
-      "sha256": "8ab6e8813e4351b01aa2918416fbfc033f3bf6337592b71f4419eaa96c574dfd",
+      "sha256": "cb1634c5e6965e1f87e0c171bb8d4958fa7a49ad7e4ab9c517e2627a5b9e72e1",
       "category": "download",
       "tags": [
         "deezer",
@@ -89,7 +89,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Qobuz.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/qobuz_native.sflx",
-      "sha256": "3a4d67d797954be87553aa729a8af013923456bf296aa391376a87da66a5adf3",
+      "sha256": "0da8dfa71d43b1fe0abb832503134a98783646c0402d69b0276073e0a705d280",
       "category": "download",
       "tags": [
         "qobuz",
@@ -121,7 +121,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Tidal.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/tidal_native.sflx",
-      "sha256": "a06bb16f3d0cde2f799ae95addce0c7e004a54871af85c701a9a0660a320c4ed",
+      "sha256": "bca7f14f448e0fdc907da11beaa6d7a7ef9d35fd75be22e514468627c1eff4e9",
       "category": "download",
       "tags": [
         "tidal",
