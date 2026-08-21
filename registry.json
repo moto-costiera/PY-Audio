@@ -9,7 +9,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Amazon.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/amazon_native.sflx",
-      "sha256": "e6c5069e936d2f2b57f6290cfcd00feac78ba7a78c5a4c61b52e52a0faed1de7",
+      "sha256": "ba5a844118eb76746b7ecdcfa90042ba777f3789d3eec3278f9e48b1e4b039ed",
       "category": "download",
       "tags": [
         "amazon",
@@ -25,7 +25,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Apple Music.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/apple_music_native.sflx",
-      "sha256": "aa5e5c8e1ef2b2875ca513f363d6b0a7e3a0fc9a2aec7891dec669550684d56e",
+      "sha256": "7eda7cb276dd72412401a2eb56b9830695e9dd70264a1e51008a34bdfc3b9950",
       "category": "download",
       "tags": [
         "apple-music",
@@ -41,7 +41,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Deezer.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/deezer_native.sflx",
-      "sha256": "cb1634c5e6965e1f87e0c171bb8d4958fa7a49ad7e4ab9c517e2627a5b9e72e1",
+      "sha256": "fdd3cdd66fd01140a7570a1ddf9f44881947e4ed80f1930bcd7ed1fb14464fe1",
       "category": "download",
       "tags": [
         "deezer",
@@ -57,7 +57,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Gdstudio.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/gdstudio_native.sflx",
-      "sha256": "262d2217cee5b4f35323bcc672188dced3ad4a17c2aaf49c9617adde624f0e3c",
+      "sha256": "5f6e9e46974607cc8409bd6e3e63fbc74499385c1c5e851174cc450e0a1757e1",
       "category": "download",
       "tags": [
         "gdstudio",
@@ -73,7 +73,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Pandora.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/pandora_native.sflx",
-      "sha256": "721ed68fbbdad74f81e5a2e4486c9f8687d14f6c7be9dc0d1de143707d1ad3e5",
+      "sha256": "7b947da5380e18a3797d376370d5d92d2d85b62804e1e4ba209fa344a23a6209",
       "category": "download",
       "tags": [
         "pandora",
@@ -89,7 +89,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Qobuz.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/qobuz_native.sflx",
-      "sha256": "0da8dfa71d43b1fe0abb832503134a98783646c0402d69b0276073e0a705d280",
+      "sha256": "7c6ed778d36b9559b96bf4fe11969c8218dda5dab9191bbf1a82a4f88818e757",
       "category": "download",
       "tags": [
         "qobuz",
@@ -105,7 +105,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Soundcloud.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/soundcloud_native.sflx",
-      "sha256": "dcbce0e7a5f8eb8a1ab58dd334649bc2b5441c025ff52ee3202334d7e5ce9e28",
+      "sha256": "f476e64a18842ba1a4b2fdecafa435ec3b421ff579484f30b9f3f3a446c350c4",
       "category": "download",
       "tags": [
         "soundcloud",
@@ -121,7 +121,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Tidal.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/tidal_native.sflx",
-      "sha256": "bca7f14f448e0fdc907da11beaa6d7a7ef9d35fd75be22e514468627c1eff4e9",
+      "sha256": "e87ae4e1de43256a3e2401ebbe181e8134d5073c778cd32f91d5334292b9569f",
       "category": "download",
       "tags": [
         "tidal",
@@ -137,7 +137,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Youtube.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/youtube_native.sflx",
-      "sha256": "bd7d6533c90376afa6ee12a2473fe2c4c192fc3ddd085201e1ee085708bf3e66",
+      "sha256": "b42598f184b4aaa4880bc056e262b212b8a215ccd58f4cbbfb08375632502911",
       "category": "download",
       "tags": [
         "youtube",
