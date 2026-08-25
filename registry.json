@@ -89,7 +89,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Qobuz.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/qobuz_native.sflx",
-      "sha256": "7c6ed778d36b9559b96bf4fe11969c8218dda5dab9191bbf1a82a4f88818e757",
+      "sha256": "f979ffc437db16c648750b9fce038dba096677565b0a9a5f045b746db6dce594",
       "category": "download",
       "tags": [
         "qobuz",
