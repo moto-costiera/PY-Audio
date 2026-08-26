@@ -57,7 +57,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Gdstudio.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/gdstudio_native.sflx",
-      "sha256": "5f6e9e46974607cc8409bd6e3e63fbc74499385c1c5e851174cc450e0a1757e1",
+      "sha256": "1c45338aa57dbe0d91b53bb3a9f43d6d11a88048f3670e28105297396a1277b7",
       "category": "download",
       "tags": [
         "gdstudio",
