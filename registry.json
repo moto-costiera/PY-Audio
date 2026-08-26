@@ -9,7 +9,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Amazon.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/amazon_native.sflx",
-      "sha256": "ba5a844118eb76746b7ecdcfa90042ba777f3789d3eec3278f9e48b1e4b039ed",
+      "sha256": "ad01901db9184a98ac7a59fa638e50fbc30396d90a61f76dd1ace359099e5f2e",
       "category": "download",
       "tags": [
         "amazon",
@@ -89,7 +89,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Qobuz.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/qobuz_native.sflx",
-      "sha256": "f979ffc437db16c648750b9fce038dba096677565b0a9a5f045b746db6dce594",
+      "sha256": "d23394058f96b8111c3800e57f29d1c7c83c2a25811d2d753c9d9e37fae3dcdf",
       "category": "download",
       "tags": [
         "qobuz",
@@ -121,7 +121,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Tidal.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/tidal_native.sflx",
-      "sha256": "e87ae4e1de43256a3e2401ebbe181e8134d5073c778cd32f91d5334292b9569f",
+      "sha256": "c44e247766c8b8a7749fb876bdb9e0bfec2f09b5407fb1ff6b732742427940e2",
       "category": "download",
       "tags": [
         "tidal",
