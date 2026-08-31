@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-31T15:53:27Z",
+  "updated_at": "2026-08-31T16:14:14Z",
   "extensions": [
     {
       "id": "amazon-py",
@@ -86,17 +86,17 @@
       "id": "qobuz-py",
       "name": "qobuz-py",
       "display_name": "Qobuz",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "description": "Auto-generated registry entry for Qobuz.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/qobuz_native.sflx",
-      "sha256": "336c1cfc859950b3b3215bf18ab8bf7adde4d5a8cbde971f05ebd8e7eee86c19",
+      "sha256": "810500c3f9b42e638a6b2d3aa3f583aa37625c1ce30c982f30cb28684849f2ff",
       "category": "download",
       "tags": [
         "qobuz",
         "python"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-31T15:53:27Z"
+      "updated_at": "2026-08-31T16:14:14Z"
     },
     {
       "id": "soundcloud-py",
@@ -118,17 +118,17 @@
       "id": "tidal-py",
       "name": "tidal-py",
       "display_name": "Tidal",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Auto-generated registry entry for Tidal.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/tidal_native.sflx",
-      "sha256": "c66dc158723c4b63e1ef8d1fadd4062b7b383be5cfceef73b01646f92d2c0d19",
+      "sha256": "4962fe836ac9918ccdfbdb89af519c9b2dce0a9adf93e26873afe3553bc58f9f",
       "category": "download",
       "tags": [
         "tidal",
         "python"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-31T15:53:27Z"
+      "updated_at": "2026-08-31T16:14:14Z"
     },
     {
       "id": "youtube-py",
