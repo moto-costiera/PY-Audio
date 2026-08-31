@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-17T11:35:00Z",
+  "updated_at": "2026-08-31T09:32:05Z",
   "extensions": [
     {
       "id": "amazon-py",
@@ -86,17 +86,17 @@
       "id": "qobuz-py",
       "name": "qobuz-py",
       "display_name": "Qobuz",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Auto-generated registry entry for Qobuz.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/qobuz_native.sflx",
-      "sha256": "d23394058f96b8111c3800e57f29d1c7c83c2a25811d2d753c9d9e37fae3dcdf",
+      "sha256": "56e2744c1236f5d21cb91903b5893765fce838f9de00dc67618514b62d752004",
       "category": "download",
       "tags": [
         "qobuz",
         "python"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-15T10:35:33Z"
+      "updated_at": "2026-08-31T09:32:05Z"
     },
     {
       "id": "soundcloud-py",
