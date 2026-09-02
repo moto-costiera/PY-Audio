@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-31T16:14:14Z",
+  "updated_at": "2026-09-02T00:00:00Z",
   "extensions": [
     {
       "id": "amazon-py",
@@ -118,17 +118,17 @@
       "id": "tidal-py",
       "name": "tidal-py",
       "display_name": "Tidal",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "description": "Auto-generated registry entry for Tidal.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/tidal_native.sflx",
-      "sha256": "4962fe836ac9918ccdfbdb89af519c9b2dce0a9adf93e26873afe3553bc58f9f",
+      "sha256": "9611ff002c5c7cb9716102e18cd778060ae8430996e3cefb097581670458cd67",
       "category": "download",
       "tags": [
         "tidal",
         "python"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-31T16:14:14Z"
+      "updated_at": "2026-09-02T00:00:00Z"
     },
     {
       "id": "youtube-py",
