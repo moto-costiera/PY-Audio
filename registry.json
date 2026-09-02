@@ -102,17 +102,17 @@
       "id": "soundcloud-py",
       "name": "soundcloud-py",
       "display_name": "Soundcloud",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "description": "Auto-generated registry entry for Soundcloud.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/soundcloud_native.sflx",
-      "sha256": "f476e64a18842ba1a4b2fdecafa435ec3b421ff579484f30b9f3f3a446c350c4",
+      "sha256": "f2a0081a17627b6b2b5948b7a204c6abfed87a3c7c1dbe344215b9deefb296ee",
       "category": "download",
       "tags": [
         "soundcloud",
         "python"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-17T11:35:00Z"
+      "updated_at": "2026-09-02T00:00:00Z"
     },
     {
       "id": "tidal-py",
