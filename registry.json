@@ -6,17 +6,17 @@
       "id": "amazon-py",
       "name": "amazon-py",
       "display_name": "Amazon",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Auto-generated registry entry for Amazon.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/amazon_native.sflx",
-      "sha256": "ad01901db9184a98ac7a59fa638e50fbc30396d90a61f76dd1ace359099e5f2e",
+      "sha256": "192e56d709a533b8b0ed5a561413a7e2835b9cefc2ef4767afaef4a515a72267",
       "category": "download",
       "tags": [
         "amazon",
         "python"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-15T10:35:33Z"
+      "updated_at": "2026-09-06T21:56:51Z"
     },
     {
       "id": "apple-music-py",
