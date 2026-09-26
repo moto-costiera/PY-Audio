@@ -121,7 +121,7 @@
       "version": "1.0.3",
       "description": "Auto-generated registry entry for Tidal.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/tidal_native.sflx",
-      "sha256": "a2fbb21d36d3fda1e8ac37cfa49b9f5b91019669005ce3e3eec47800888808d6",
+      "sha256": "0cb10c220fd62cf4d51307843cac2608fa578964fa4b35733400b1b557289f11",
       "category": "download",
       "tags": [
         "tidal",
