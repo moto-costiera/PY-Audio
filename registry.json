@@ -9,26 +9,10 @@
       "version": "1.0.1",
       "description": "Auto-generated registry entry for Amazon.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/amazon_native.sflx",
-      "sha256": "a17c64d3405d6dc31d70a2d847b7ca4831148a1b270796ce97003c13424bf8b3",
+      "sha256": "f3b9025089920d3e43ba57e4bc5356c9e1cffe71ee6326059f9f14a6138b5791",
       "category": "download",
       "tags": [
         "amazon",
-        "python"
-      ],
-      "downloads": 0,
-      "updated_at": "2026-09-13T12:50:21Z"
-    },
-    {
-      "id": "apple-music-py",
-      "name": "apple-music-py",
-      "display_name": "Apple Music",
-      "version": "1.0.0",
-      "description": "Auto-generated registry entry for Apple Music.",
-      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/apple_music_native.sflx",
-      "sha256": "91143acb40094548e6bf1bd5f42fe29f92b039f84010007a81da5f456429af04",
-      "category": "download",
-      "tags": [
-        "apple-music",
         "python"
       ],
       "downloads": 0,
@@ -41,7 +25,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Deezer.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/deezer_native.sflx",
-      "sha256": "3314f4f1639b02e270b107401c81473a90abc0fb1315ec10a56d93c79f676813",
+      "sha256": "98dd3bd8bf8194f1675015ff1366f77027eecf29165e6d44bc586f65db67939e",
       "category": "download",
       "tags": [
         "deezer",
@@ -57,26 +41,10 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Gdstudio.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/gdstudio_native.sflx",
-      "sha256": "5846cfaa9119609d73fedf780a9ebe0481a7cf3768799103df58475d3898e841",
+      "sha256": "5333e57904a885c51865e8a097a0b8ba831f8eb57641bebbd35edcbf52d22a1a",
       "category": "download",
       "tags": [
         "gdstudio",
-        "python"
-      ],
-      "downloads": 0,
-      "updated_at": "2026-09-13T12:50:21Z"
-    },
-    {
-      "id": "pandora-py",
-      "name": "pandora-py",
-      "display_name": "Pandora",
-      "version": "1.0.0",
-      "description": "Auto-generated registry entry for Pandora.",
-      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/pandora_native.sflx",
-      "sha256": "a9e2cab5f61b7942cc9121045b16c336a640330159ef99995501243cc4dc7040",
-      "category": "download",
-      "tags": [
-        "pandora",
         "python"
       ],
       "downloads": 0,
@@ -89,7 +57,7 @@
       "version": "1.0.3",
       "description": "Auto-generated registry entry for Qobuz.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/qobuz_native.sflx",
-      "sha256": "f968e7c3b136d261909a29303e2bc36fa3df05f658bb606602585eaf09ac8c82",
+      "sha256": "d49ba817b5e432559e4e5e11fc6331af6719fdfc8a185a5473633d223c8fa32a",
       "category": "download",
       "tags": [
         "qobuz",
@@ -105,7 +73,7 @@
       "version": "1.1.0",
       "description": "Auto-generated registry entry for Soundcloud.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/soundcloud_native.sflx",
-      "sha256": "845bb4a098f9b3a939f8b33b2907d431295e787afb83782566836714aef9a7f7",
+      "sha256": "9348cacaee127918b733361d91c51327c43336d5e878bede9bb198d559c482fb",
       "category": "download",
       "tags": [
         "soundcloud",
@@ -121,7 +89,7 @@
       "version": "1.0.3",
       "description": "Auto-generated registry entry for Tidal.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/tidal_native.sflx",
-      "sha256": "0cb10c220fd62cf4d51307843cac2608fa578964fa4b35733400b1b557289f11",
+      "sha256": "668fa813380bfcb939aca37c56308aac820a034d0053791bb8febf4aedfeff0a",
       "category": "download",
       "tags": [
         "tidal",
@@ -137,7 +105,7 @@
       "version": "1.0.0",
       "description": "Auto-generated registry entry for Youtube.",
       "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/youtube_native.sflx",
-      "sha256": "02b31eb685241a1617eaed5cd104efc202fe298fcebe2ec4c148f900beb0b494",
+      "sha256": "62f004b4b6025e3006d94a5ba116680214376a800600d3d7d96fc595ada8a5cc",
       "category": "download",
       "tags": [
         "youtube",
