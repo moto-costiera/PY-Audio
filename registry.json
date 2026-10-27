@@ -99,6 +99,26 @@
       "updated_at": "2026-09-26T00:40:22Z"
     },
     {
+      "id": "utilities",
+      "name": "utilities",
+      "display_name": "Mornye Utilities",
+      "version": "1.0.0",
+      "description": "Spotify/Tidal metadata, browser solver and signed-session utility modules.",
+      "download_url": "https://raw.githubusercontent.com/moto-costiera/PY-Audio/main/extensions/utilities.sflx",
+      "sha256": "b248d32d3f78aaa76ecfa45617ab4e8844f367978b9c1a83aad9d68e976b6905",
+      "category": "utility",
+      "tags": [
+        "python",
+        "metadata",
+        "spotify",
+        "tidal",
+        "solver",
+        "signed-session"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-10-27T00:00:00Z"
+    },
+    {
       "id": "youtube-py",
       "name": "youtube-py",
       "display_name": "Youtube",
